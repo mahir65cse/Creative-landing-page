@@ -1,0 +1,122 @@
+/* style for header */
+header {
+  font-family: Inter;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+nav ul li {
+  margin-right: 25px;
+}
+#home {
+  color: rgb(89, 86, 232);
+  font-size: 18px;
+  font-weight: 500;
+  text-align: left;
+}
+.nav {
+  color: rgb(24, 24, 24);
+  font-size: 18px;
+  font-weight: 500;
+  text-align: left;
+}
+.btn-primary {
+  border-radius: 10px;
+  background: rgb(89, 86, 232);
+  width: 144px;
+  height: 48px;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  border: solid;
+}
+.heading-theme {
+  position: relative;
+  margin-top: 50px;
+}
+.banner-illustrator {
+  position: absolute;
+  top: 0;
+  margin: 155px 200px 210px 800px;
+}
+.introduction {
+  position: absolute;
+  top: 0;
+  margin: 200px 1000px 270px 200px;
+  width: 540px;
+  height: 440px;
+}
+.heading-one {
+  color: rgb(255, 254, 254);
+  font-size: 65px;
+  font-weight: 700;
+}
+.para-one {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 400;
+}
+#get-started {
+  border-radius: 10px;
+  background: rgb(255, 255, 255);
+  width: 144px;
+  height: 48px;
+  color: rgb(89, 86, 232);
+  font-size: 18px;
+  font-weight: 500;
+  border: 0;
+}
+main {
+  max-width: 1170px;
+  max-height: 616px;
+  margin: 0px auto;
+}
+.our-services {
+  color: rgb(24, 24, 24);
+  font-size: 40px;
+  font-weight: 700;
+}
+.para-two {
+  color: rgba(24, 24, 24, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(24, 24, 24, 0.7);
+}
+.services {
+  text-align: center;
+}
+.service-can-provide {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+.service-info {
+  box-sizing: border-box;
+  border: 0.5px solid rgb(227, 227, 227);
+  border-radius: 10px;
+  background: rgb(255, 255, 255);
+  margin-top: 50px;
+  padding: 50px;
+  box-shadow: 20px;
+}
+.our-work {
+  text-align: center;
+  margin-top: 100px;
+}
+.our-work-portfolio {
+  color: rgb(24, 24, 24);
+  font-size: 40px;
+  font-weight: 700;
+}
+.para-three {
+  color: rgba(24, 24, 24, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+}
