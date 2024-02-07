@@ -120,3 +120,96 @@ main {
   font-size: 16px;
   font-weight: 400;
 }
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+  left: 0;
+  padding: 190px 25px 20px 15px;
+}
+.intro-of-team-member {
+  text-align: center;
+}
+.picture {
+  color: rgb(24, 24, 24);
+  font-size: 40px;
+  font-weight: 700;
+}
+.para-four {
+  margin: 20px 0px 50px 0px;
+}
+.heading-three {
+  color: rgb(24, 24, 24);
+  font-size: 40px;
+  font-weight: 700;
+}
+.para-five {
+  color: rgba(24, 24, 24, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+.same {
+  display: flex;
+  gap: 30px;
+}
+.equal {
+  border-radius: 10px;
+  box-shadow: 0px 6px 35px 0px rgba(0, 0, 0, 0.08);
+  background: rgb(255, 255, 255);
+  padding-left: 50px;
+  padding-top: 50px;
+}
+.para-six {
+  color: rgba(24, 24, 24, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+}
+.mahid {
+  color: rgb(24, 24, 24);
+  font-size: 20px;
+  font-weight: 600;
+}
+.ux {
+  color: rgb(93, 93, 93);
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 0px;
+}
+.comma {
+  float: right;
+  padding-right: 25px;
+  padding-bottom: 25px;
+}
+.our-latest-news {
+  text-align: center;
+}
+.our-latest {
+  color: rgb(24, 24, 24);
+  font-size: 40px;
+  font-weight: 700;
+}
+.last-div {
+  display: flex;
+  gap: 30px;
+}
+.last {
+  box-sizing: border-box;
+  border: 1px solid rgb(227, 227, 227);
+  border-radius: 10px;
+  background: rgb(255, 255, 255);
+  padding: 25px;
+}
+.one,
+.two {
+  margin-right: 20px;
+}
+.last-heading {
+  color: rgb(24, 24, 24);
+  font-size: 20px;
+  font-weight: 600;
+}
+footer{
+    background-color:  rgba(89, 86, 232, 0.1);
+}
